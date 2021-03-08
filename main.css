@@ -1,0 +1,38 @@
+.header {
+    padding-bottom: 10px;
+    line-height: 5px;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: flex;
+}
+
+.photo {
+    width: 180px;
+    height: 150px;
+    margin-right: 30px;
+}
+
+.fullname {
+    font-weight: bold;
+}
+
+.currently {
+    padding-bottom: 10px;
+    
+}
+
+.skills {
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
